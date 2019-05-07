@@ -1,0 +1,58 @@
+#wpadminbar  .trackbase-icon, .trackbase-icon{
+	width: 20px;
+	height: 20px;
+    display: inline-block;
+    position: relative;
+    background-image: url(http://t.paybyphonebillcasino.co.uk/wp-content/plugins/trackbase/img/fireball.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin: 5px;
+    vertical-align: bottom;
+}
+.trackbase-icon{
+	float:left;
+	margin:0 5px;
+}
+
+.trackbase-dashboard-item {
+	width:48%;
+    position: relative;
+    margin-right: 1rem;
+    box-sizing: border-box;
+    background: #fff;
+    box-shadow: 0 0 0 1px rgba(200,215,225,0.5), 0 1px 2px #e9eff3;
+	display: inline-block;
+    vertical-align: top;
+}
+.trackbase-dashboard-item.fullwidth{
+	width:98%;
+	margin: 1rem 0;
+}
+.trackbase-dashboard-item ul{
+	margin:0;
+}
+.trackbase-dashboard-item ul li{
+	width: calc(25% - 1px);
+	display: inline-block;
+	margin:0;
+	border-right: 1px solid #eeeeee;
+	font-size: 25px;
+    font-weight: 500;
+    color: #cecece;
+}
+.trackbase-dashboard-item div{
+    padding: 1rem;
+}
+.trackbase-dashboard-item h2{
+	margin:0;
+	font-size:1rem;
+}
+.trackbase-dashboard-item hr{
+	border-top: 1px solid #eeeeee;
+}
+
+.trackbase-dashboard-item .pos{
+	font-size: 18px;
+    font-weight: 500;
+    color: #cecece;
+}
